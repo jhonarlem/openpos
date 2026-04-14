@@ -177,6 +177,6 @@ Repositorio: https://github.com/avalontm/openpos.git
 
 ## Licencia
 
-Licencia MIT - Copyright (c) 2025 avalontm
+Licencia MIT - Copyright (c) 2026 avalontm
 
 Proyecto desarrollado por AvalonTM
